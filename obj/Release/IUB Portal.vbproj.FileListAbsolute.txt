@@ -1,0 +1,18 @@
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\bin\Release\IUB Portal.exe.config
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\bin\Release\IUB Portal.exe.manifest
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\bin\Release\IUB Portal.application
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\bin\Release\IUB Portal.exe
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\bin\Release\IUB Portal.pdb
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\bin\Release\IUB Portal.xml
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\obj\Release\IUB Portal.vbproj.AssemblyReference.cache
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\obj\Release\IUB_Portal.Form1.resources
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\obj\Release\IUB_Portal.Loding.resources
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\obj\Release\IUB_Portal.Resources.resources
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\obj\Release\IUB Portal.vbproj.GenerateResource.cache
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\obj\Release\IUB Portal.vbproj.CoreCompileInputs.cache
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\obj\Release\IUB Portal.TrustInfo.xml
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\obj\Release\IUB Portal.exe.manifest
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\obj\Release\IUB Portal.application
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\obj\Release\IUB Portal.exe
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\obj\Release\IUB Portal.xml
+D:\Projects\Softwares\IUB Portals\New\IUB Portal\obj\Release\IUB Portal.pdb

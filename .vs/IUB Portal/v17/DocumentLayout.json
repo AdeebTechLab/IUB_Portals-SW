@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Softwares\\IUB Portals\\New\\IUB Portal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67206AF2-E41B-4FAB-AFF8-6E1D1855D363}|..\\IUB Portals\\IUB Portals.wapproj|d:\\projects\\softwares\\iub portals\\new\\iub portals\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68819F44-A6C8-48BE-9FF2-D51D6FC1093C}|IUB Portal.vbproj|d:\\projects\\softwares\\iub portals\\new\\iub portal\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{68819F44-A6C8-48BE-9FF2-D51D6FC1093C}|IUB Portal.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68819F44-A6C8-48BE-9FF2-D51D6FC1093C}|IUB Portal.vbproj|D:\\Projects\\Softwares\\IUB Portals\\New\\IUB Portal\\loding.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{68819F44-A6C8-48BE-9FF2-D51D6FC1093C}|IUB Portal.vbproj|solutionrelative:loding.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68819F44-A6C8-48BE-9FF2-D51D6FC1093C}|IUB Portal.vbproj|D:\\Projects\\Softwares\\IUB Portals\\New\\IUB Portal\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{68819F44-A6C8-48BE-9FF2-D51D6FC1093C}|IUB Portal.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "D:\\Projects\\Softwares\\IUB Portals\\New\\IUB Portals\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "..\\IUB Portals\\Package.appxmanifest",
+              "ToolTip": "D:\\Projects\\Softwares\\IUB Portals\\New\\IUB Portals\\Package.appxmanifest",
+              "RelativeToolTip": "..\\IUB Portals\\Package.appxmanifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2024-04-17T15:32:56.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Loding.vb [Design]",
+              "DocumentMoniker": "D:\\Projects\\Softwares\\IUB Portals\\New\\IUB Portal\\Loding.vb",
+              "RelativeDocumentMoniker": "Loding.vb",
+              "ToolTip": "D:\\Projects\\Softwares\\IUB Portals\\New\\IUB Portal\\Loding.vb [Design]",
+              "RelativeToolTip": "Loding.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-25T10:27:26.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Projects\\Softwares\\IUB Portals\\New\\IUB Portal\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\Projects\\Softwares\\IUB Portals\\New\\IUB Portal\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-25T10:27:07.387Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Projects\\Softwares\\IUB Portals\\New\\IUB Portal\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\Projects\\Softwares\\IUB Portals\\New\\IUB Portal\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAswFMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T17:56:09.669Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
