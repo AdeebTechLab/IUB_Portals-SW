@@ -16,3 +16,22 @@ D:\Projects\Softwares\IUB Portals\New\IUB Portal\obj\Release\IUB Portal.applicat
 D:\Projects\Softwares\IUB Portals\New\IUB Portal\obj\Release\IUB Portal.exe
 D:\Projects\Softwares\IUB Portals\New\IUB Portal\obj\Release\IUB Portal.xml
 D:\Projects\Softwares\IUB Portals\New\IUB Portal\obj\Release\IUB Portal.pdb
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\bin\Release\IUB Portal.exe.config
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\bin\Release\IUB Portal.exe.manifest
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\bin\Release\IUB Portal.application
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\bin\Release\IUB Portal.exe
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\bin\Release\IUB Portal.pdb
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\bin\Release\IUB Portal.xml
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\obj\Release\IUB Portal.vbproj.AssemblyReference.cache
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\obj\Release\IUB Portal.exe.config
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\obj\Release\IUB_Portal.Form1.resources
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\obj\Release\IUB_Portal.Loding.resources
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\obj\Release\IUB_Portal.Resources.resources
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\obj\Release\IUB Portal.vbproj.GenerateResource.cache
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\obj\Release\IUB Portal.vbproj.CoreCompileInputs.cache
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\obj\Release\IUB Portal.TrustInfo.xml
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\obj\Release\IUB Portal.exe.manifest
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\obj\Release\IUB Portal.application
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\obj\Release\IUB Portal.exe
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\obj\Release\IUB Portal.xml
+C:\Users\Adeeb Technology Lab\Downloads\IUB_Portals-SW\obj\Release\IUB Portal.pdb

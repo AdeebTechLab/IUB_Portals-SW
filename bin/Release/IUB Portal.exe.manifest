@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IUB Portal.exe" size="744960">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IUB Portal.exe" size="210944">
       <assemblyIdentity name="IUB Portal" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/9739GsP+1Dxnb+X3gZ8oQfNKUfGp+trSCk5UOf+ido=</dsig:DigestValue>
+        <dsig:DigestValue>lAZlE+V6nA+CQo+Bg/onm8BgJ5R8iiBVFBH2nqWMEmA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
